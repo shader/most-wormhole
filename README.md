@@ -1,0 +1,1 @@
+most-wormhole is a utility library for creating time-travelling and self-referrential streams with most.js
