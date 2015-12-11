@@ -1,13 +1,13 @@
 {
   "name": "most-wormhole",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple helper library for creating time-travelling and self-referential streams with most.js",
   "main": "dist/wormhole.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "emailium@gmail.com",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shader/most-split.git"
