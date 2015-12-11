@@ -1,7 +1,7 @@
 {
   "name": "most-wormhole",
   "version": "0.1.0",
-  "description": "A simple helper library for creating time-travelling and self-referrential streams with most.js",
+  "description": "A simple helper library for creating time-travelling and self-referential streams with most.js",
   "main": "dist/wormhole.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
